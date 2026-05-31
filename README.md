@@ -1,92 +1,119 @@
 <p align="center">
   <img src="download1-ezgif.com-optimize.gif" width="100%">
 </p>
+
 <h1 align="center">Hi 👋, I'm Deepika S</h1>
 
 <h3 align="center">Java Developer | PHP Developer | MySQL Enthusiast</h3>
 
 <p align="center">
-Passionate about building innovative web applications and continuously learning new technologies.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;PHP+Developer;MySQL+Enthusiast;Full+Stack+Developer;Passionate+Programmer" />
+</p>
+
+<p align="center">
+Passionate about building innovative web applications and continuously learning new technologies 🚀
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Deepika22-d&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 🎓 Final Year Engineering Student
 
-💻 Passionate Java and Web Developer
+💻 Passionate Java & Web Developer
 
 🌱 Currently learning Full Stack Development
 
 🛠️ Skilled in Java, PHP, MySQL, HTML, CSS and JavaScript
 
-🚀 Love building real-world web applications
+🚀 Love building real-world applications
 
 📚 Constantly exploring new technologies and frameworks
 
-🎯 Aspiring Software Developer
+🎯 Aspiring Software Engineer
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Programming Languages
-
-* Java
-* PHP
-* JavaScript
-
-### Database
-
-* MySQL
-
-### Web Technologies
-
-* HTML5
-* CSS3
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Eclipse
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,php,mysql,html,css,js,git,github,vscode,eclipse" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🎯 Online Quiz System
+## 🎯 Online Quiz System
 
-A web-based quiz management platform developed using PHP, MySQL, HTML, CSS and JavaScript.
+✔ User Registration & Login
 
-### 🌟 Online Survey System
+✔ Multiple Choice Questions (MCQ)
 
-A feedback and rating management system developed using Java Swing and MySQL.
+✔ Automatic Score Calculation
 
-### 🌐 Personal Portfolio Website
-
-A responsive portfolio website showcasing skills, projects and achievements.
+✔ PHP & MySQL Based System
 
 ---
 
-## 📈 Goals
+## 🌟 Online Survey System
 
-* Master Full Stack Development
-* Build impactful software solutions
-* Contribute to open-source projects
-* Grow as a Software Engineer
+✔ Java Swing GUI
+
+✔ MySQL Database Integration
+
+✔ Feedback & Rating Collection
+
+✔ Secure Data Storage
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Personal Portfolio Website
+
+✔ Responsive Design
+
+✔ Modern UI/UX
+
+✔ Project Showcase
+
+✔ Contact Section
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepika22-d&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepika22-d&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepika22-d&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 📫 Connect With Me
 
 📧 Email: [deepikasekar222@gmail.com](mailto:deepikasekar222@gmail.com)
 
-💼 LinkedIn:www.linkedin.com/in/deepika-sekar-140276290
+💼 LinkedIn: [www.linkedin.com/in/deepika-sekar-140276290](http://www.linkedin.com/in/deepika-sekar-140276290)
+
+🐙 GitHub: https://github.com/Deepika22-d
+
 ---
 
+<h3 align="center">
+✨ Thank You For Visiting My Profile ✨
+</h3>
+
 <p align="center">
-✨ Thanks for visiting my profile! ✨
+⭐ Don't forget to star my repositories if you like them!
 </p>
