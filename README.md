@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="deepika-banner.gif" width="100%">
+  <img src="download1-ezgif.com-optimize.gif" width="100%">
 </p>
-
 <h1 align="center">Hi 👋, I'm Deepika S</h1>
 
 <h3 align="center">Java Developer | PHP Developer | MySQL Enthusiast</h3>
