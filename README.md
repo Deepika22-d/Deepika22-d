@@ -85,8 +85,7 @@ A responsive portfolio website showcasing skills, projects and achievements.
 
 📧 Email: [deepikasekar222@gmail.com](mailto:deepikasekar222@gmail.com)
 
-💼 LinkedIn: Add Your LinkedIn Profile Link Here
-
+💼 LinkedIn:www.linkedin.com/in/deepika-sekar-140276290
 ---
 
 <p align="center">
