@@ -1,16 +1,94 @@
-## Hi there 👋
+<p align="center">
+  <img src="Your%20paragraph%20text%20(1).gif" width="100%">
+</p>
 
-<!--
-**Deepika22-d/Deepika22-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Deepika S</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Java Developer | PHP Developer | MySQL Enthusiast</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Passionate about building innovative web applications and continuously learning new technologies.
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+🎓 Final Year Engineering Student
+
+💻 Passionate Java and Web Developer
+
+🌱 Currently learning Full Stack Development
+
+🛠️ Skilled in Java, PHP, MySQL, HTML, CSS and JavaScript
+
+🚀 Love building real-world web applications
+
+📚 Constantly exploring new technologies and frameworks
+
+🎯 Aspiring Software Developer
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+* Java
+* PHP
+* JavaScript
+
+### Database
+
+* MySQL
+
+### Web Technologies
+
+* HTML5
+* CSS3
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Eclipse
+
+---
+
+## 🚀 Featured Projects
+
+### 🎯 Online Quiz System
+
+A web-based quiz management platform developed using PHP, MySQL, HTML, CSS and JavaScript.
+
+### 🌟 Online Survey System
+
+A feedback and rating management system developed using Java Swing and MySQL.
+
+### 🌐 Personal Portfolio Website
+
+A responsive portfolio website showcasing skills, projects and achievements.
+
+---
+
+## 📈 Goals
+
+* Master Full Stack Development
+* Build impactful software solutions
+* Contribute to open-source projects
+* Grow as a Software Engineer
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [deepikasekar222@gmail.com](mailto:deepikasekar222@gmail.com)
+
+💼 LinkedIn: Add Your LinkedIn Profile Link Here
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile! ✨
+</p>
