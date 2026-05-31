@@ -4,51 +4,51 @@
 
 <h1 align="center">Hi 👋, I'm Deepika S</h1>
 
-<h3 align="center">Java Developer | PHP Developer | MySQL Enthusiast</h3>
+<h3 align="center">
+Java Developer • PHP Developer • MySQL Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;PHP+Developer;MySQL+Enthusiast;Full+Stack+Developer;Passionate+Programmer" />
+Passionate about building web applications, solving real-world problems, and continuously improving my development skills.
 </p>
 
 <p align="center">
-Passionate about building innovative web applications and continuously learning new technologies 🚀
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepika22-d&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;PHP+Developer;MySQL+Enthusiast;Full+Stack+Learner;Building+Innovative+Projects" />
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# 🚀 About Me
 
 🎓 Final Year Engineering Student
 
-💻 Passionate Java & Web Developer
+💻 Passionate about Java Development and Web Technologies
 
 🌱 Currently learning Full Stack Development
 
-🛠️ Skilled in Java, PHP, MySQL, HTML, CSS and JavaScript
+🛠️ Building database-driven applications using Java, PHP and MySQL
 
-🚀 Love building real-world applications
+📚 Exploring modern web technologies and software development practices
 
-📚 Constantly exploring new technologies and frameworks
-
-🎯 Aspiring Software Engineer
+🎯 Goal: To become a skilled Software Engineer and contribute to impactful projects
 
 ---
 
-# 🛠️ Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,mysql,html,css,js,git,github,vscode,eclipse" />
+<img src="https://skillicons.dev/icons?i=java,php,mysql,html,css,js,git,github,vscode,eclipse" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
 ## 🎯 Online Quiz System
+
+A web-based quiz management platform developed using PHP, MySQL, HTML, CSS and JavaScript.
+
+### Key Features
 
 ✔ User Registration & Login
 
@@ -56,47 +56,57 @@ Passionate about building innovative web applications and continuously learning 
 
 ✔ Automatic Score Calculation
 
-✔ PHP & MySQL Based System
+✔ Result Management
+
+✔ Responsive User Interface
 
 ---
 
 ## 🌟 Online Survey System
 
-✔ Java Swing GUI
+A Java Swing and MySQL based feedback collection system.
 
-✔ MySQL Database Integration
+### Key Features
 
-✔ Feedback & Rating Collection
+✔ Attractive Java Swing GUI
+
+✔ MySQL Database Connectivity
+
+✔ Feedback & Rating System
 
 ✔ Secure Data Storage
+
+✔ Response Management
 
 ---
 
 ## 🌐 Personal Portfolio Website
 
-✔ Responsive Design
+A responsive portfolio website showcasing my skills, projects and achievements.
 
-✔ Modern UI/UX
+### Key Features
+
+✔ Modern User Interface
+
+✔ Mobile Responsive Design
 
 ✔ Project Showcase
 
-✔ Contact Section
+✔ Contact Information
 
 ---
 
-# 📊 GitHub Statistics
+# 🎯 Current Focus
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepika22-d&show_icons=true&theme=tokyonight" />
-</p>
+🔹 Full Stack Development
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepika22-d&theme=tokyonight" />
-</p>
+🔹 Database Management
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepika22-d&layout=compact&theme=tokyonight" />
-</p>
+🔹 Java Application Development
+
+🔹 Problem Solving
+
+🔹 Software Engineering
 
 ---
 
@@ -110,10 +120,10 @@ Passionate about building innovative web applications and continuously learning 
 
 ---
 
-<h3 align="center">
-✨ Thank You For Visiting My Profile ✨
-</h3>
+<div align="center">
 
-<p align="center">
-⭐ Don't forget to star my repositories if you like them!
-</p>
+### ⭐ Thanks for visiting my profile ⭐
+
+"Code • Learn • Build • Grow"
+
+</div>
