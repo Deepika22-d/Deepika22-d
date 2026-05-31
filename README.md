@@ -4,51 +4,51 @@
 
 <h1 align="center">Hi 👋, I'm Deepika S</h1>
 
-<h3 align="center">
-Java Developer • PHP Developer • MySQL Enthusiast
-</h3>
+<h3 align="center">Java Developer | PHP Developer | MySQL Enthusiast</h3>
 
 <p align="center">
-Passionate about building web applications, solving real-world problems, and continuously improving my development skills.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;PHP+Developer;MySQL+Enthusiast;Full+Stack+Developer;Passionate+Programmer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;PHP+Developer;MySQL+Enthusiast;Full+Stack+Learner;Building+Innovative+Projects" />
+Passionate about building innovative web applications and continuously learning new technologies 🚀
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Deepika22-d&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 👩‍💻 About Me
 
 🎓 Final Year Engineering Student
 
-💻 Passionate about Java Development and Web Technologies
+💻 Passionate Java & Web Developer
 
 🌱 Currently learning Full Stack Development
 
-🛠️ Building database-driven applications using Java, PHP and MySQL
+🛠️ Skilled in Java, PHP, MySQL, HTML, CSS and JavaScript
 
-📚 Exploring modern web technologies and software development practices
+🚀 Love building real-world applications
 
-🎯 Goal: To become a skilled Software Engineer and contribute to impactful projects
+📚 Constantly exploring new technologies and frameworks
+
+🎯 Aspiring Software Engineer
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,php,mysql,html,css,js,git,github,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,php,mysql,html,css,js,git,github,vscode,eclipse" />
 </p>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
 ## 🎯 Online Quiz System
-
-A web-based quiz management platform developed using PHP, MySQL, HTML, CSS and JavaScript.
-
-### Key Features
 
 ✔ User Registration & Login
 
@@ -56,57 +56,47 @@ A web-based quiz management platform developed using PHP, MySQL, HTML, CSS and J
 
 ✔ Automatic Score Calculation
 
-✔ Result Management
-
-✔ Responsive User Interface
+✔ PHP & MySQL Based System
 
 ---
 
 ## 🌟 Online Survey System
 
-A Java Swing and MySQL based feedback collection system.
+✔ Java Swing GUI
 
-### Key Features
+✔ MySQL Database Integration
 
-✔ Attractive Java Swing GUI
-
-✔ MySQL Database Connectivity
-
-✔ Feedback & Rating System
+✔ Feedback & Rating Collection
 
 ✔ Secure Data Storage
-
-✔ Response Management
 
 ---
 
 ## 🌐 Personal Portfolio Website
 
-A responsive portfolio website showcasing my skills, projects and achievements.
+✔ Responsive Design
 
-### Key Features
-
-✔ Modern User Interface
-
-✔ Mobile Responsive Design
+✔ Modern UI/UX
 
 ✔ Project Showcase
 
-✔ Contact Information
+✔ Contact Section
 
 ---
 
-# 🎯 Current Focus
+# 📊 GitHub Statistics
 
-🔹 Full Stack Development
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepika22-d&show_icons=true&theme=tokyonight" />
+</p>
 
-🔹 Database Management
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepika22-d&theme=tokyonight" />
+</p>
 
-🔹 Java Application Development
-
-🔹 Problem Solving
-
-🔹 Software Engineering
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepika22-d&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -120,10 +110,10 @@ A responsive portfolio website showcasing my skills, projects and achievements.
 
 ---
 
-<div align="center">
+<h3 align="center">
+✨ Thank You For Visiting My Profile ✨
+</h3>
 
-### ⭐ Thanks for visiting my profile ⭐
-
-"Code • Learn • Build • Grow"
-
-</div>
+<p align="center">
+⭐ Don't forget to star my repositories if you like them!
+</p>
