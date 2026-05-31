@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Your%20paragraph%20text%20(1).gif" width="100%">
+  <img src="deepika-banner.gif" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Deepika S</h1>
